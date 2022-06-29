@@ -1,0 +1,4 @@
+Ini adalah file CV
+Pwrusahaan 1:PT.Karya Berkah
+Perusahaan 2:PT.Indah Pusaka
+Perusahaan 3:PT.Agung Kusuma
